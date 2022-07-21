@@ -1,0 +1,7 @@
+@Test 
+private void absTest();
+assertEquals(abs(10),10);
+
+assertEquals(abs(-10),10);
+
+
